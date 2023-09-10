@@ -1,5 +1,8 @@
 # Python部内向け講習会
 
+Tkinterを利用する場合はこちら
+[![Gitpod Read-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#github.com/okano-tomoyuki/python_learning)
+
 ## 講習会資料
 - [lesson1](./lesson/lesson1.ipynb)
 - [lesson2](./lesson/lesson2.ipynb)
