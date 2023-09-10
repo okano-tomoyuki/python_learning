@@ -1,2 +1,3 @@
 FROM gitpod/workspace-full-vnc:latest
-RUN pip install -r requirements.txt
+USER gitpod
+RUN python -m pip install -r requirements.txt
