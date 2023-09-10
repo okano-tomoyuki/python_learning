@@ -1,3 +1,3 @@
-FROM gitpod/workspace-python-tk
+FROM gitpod/workspace-full
+RUN apt update && apt install -y python3-tk 
 USER gitpod
-# RUN python -m pip install -r requirements.txt
