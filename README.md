@@ -1,0 +1,2 @@
+# python_learning
+Python初学者のための学習用リポジトリ
